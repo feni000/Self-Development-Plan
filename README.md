@@ -7,34 +7,34 @@
 
 ## Table of Contents
 
-- [Programming languages]
-  - [JS] 
+- Programming languages
+  - JS
     - JS Basic knowledge
     - NodeJS
     - AngularJS
     - AJAX
     - MongoDB (optional)
-  - [C#]
+  - C#
     - Expand Basic knowledge
     - Expand ASP.NET MVC knowledge
     - Expand WebForms knowledge (optional)
-  - [HTML/CSS]
+  - HTML/CSS
     - Expand bootstrap knowledge 
     - Learn basics of Sass/Less
-  - [General Knowledge]
+  - General Knowledge
     - Multithreading
     - Clean code principles
     - REST API
     - WebServices 
     - Unit Tests (Test driven development)
-- [Learning Plan]
+- Learning Plan
   - Theory from the books about every subject
   - Few simple excercises to get familiar with technology
   - One bigger project that will implement each technology (at least one per technology)
   - One big project that will be added to portfolio as a "flagship"
-- [Deadline]
-  - [End results]
-- [Books]
+- Deadline
+  - End results
+- Books
   - [Zrozumieć JavaScript. Wprowadzenie do programowania  - Marijn Haverbeke](http://helion.pl/ksiazki/angularjs-profesjonalne-techniki-adam-freeman,angupt.htm)
   - [C#. Praktyczny kurs. Wydanie III - Marcin Lis](http://helion.pl/ksiazki/c-praktyczny-kurs-wydanie-iii-marcin-lis,cshpk3.htm)
   - [ASP.NET MVC 5. Zaawansowane programowanie - Adam Freeman](http://helion.pl/ksiazki/asp-net-mvc-5-zaawansowane-programowanie-adam-freeman,asp5zp.htm)
