@@ -14,6 +14,7 @@
     - NodeJS
     - AngularJS
     - AJAX
+    - MongoDB (optional)
   - [C#]
     - Expand Basic knowledge
     - Expand ASP.NET MVC knowledge
