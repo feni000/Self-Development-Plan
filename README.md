@@ -29,10 +29,10 @@
     - WebServices 
     - Unit Tests (Test driven development)
 - [Learning Plan]
-  - [Theory from the books about every subject]
-  - [Few simple excercises to get familiar with technology]
-  - [One bigger project that will implement each technology (at least one per technology)]
-  - [One big project that will be added to portfolio as a "flagship"]
+  - Theory from the books about every subject
+  - Few simple excercises to get familiar with technology
+  - One bigger project that will implement each technology (at least one per technology)
+  - One big project that will be added to portfolio as a "flagship"
 - [Deadline]
   - [End results]
 - [Books]
@@ -40,5 +40,5 @@
   - [C#. Praktyczny kurs. Wydanie III - Marcin Lis](http://helion.pl/ksiazki/c-praktyczny-kurs-wydanie-iii-marcin-lis,cshpk3.htm)
   - [ASP.NET MVC 5. Zaawansowane programowanie - Adam Freeman](http://helion.pl/ksiazki/asp-net-mvc-5-zaawansowane-programowanie-adam-freeman,asp5zp.htm)
   - [AngularJS. Profesjonalne techniki](http://helion.pl/ksiazki/angularjs-profesjonalne-techniki-adam-freeman,angupt.htm)
-  
+  - [Czysty kod. Podręcznik dobrego programisty](http://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm)
   
