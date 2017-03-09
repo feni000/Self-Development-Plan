@@ -6,12 +6,14 @@
 > she should learn as well. My main inspiration for this project is github user jwasham that created project
 > coding-interview-university
 
-## Table of Contents for me
+## Table of Contents
 
-- [Programming languages] (#programming-languages)
+- [Programming languages]
   - [JS] 
+    - JS Basic knowledge
     - NodeJS
     - AngularJS
+    - AJAX
   - [C#]
     - Expand Basic knowledge
     - Expand ASP.NET MVC knowledge
@@ -22,4 +24,18 @@
   - [General Knowledge]
     - Multithreading
     - Clean code principles
-    
+    - REST API
+- [Learning Plan]
+  - [Theory from the books about every subject]
+  - [Few simple excercises to get familiar with technology]
+  - [One bigger project that will implement each technology (at least one per technology)]
+  - [One big project that will be added to portfolio as a "flagship"]
+- [Deadline]
+  - [End results]
+- [Books]
+  - [Zrozumieć JavaScript. Wprowadzenie do programowania  - Marijn Haverbeke](http://helion.pl/ksiazki/angularjs-profesjonalne-techniki-adam-freeman,angupt.htm)
+  - [C#. Praktyczny kurs. Wydanie III - Marcin Lis](http://helion.pl/ksiazki/c-praktyczny-kurs-wydanie-iii-marcin-lis,cshpk3.htm)
+  - [ASP.NET MVC 5. Zaawansowane programowanie - Adam Freeman](http://helion.pl/ksiazki/asp-net-mvc-5-zaawansowane-programowanie-adam-freeman,asp5zp.htm)
+  - [AngularJS. Profesjonalne techniki](http://helion.pl/ksiazki/angularjs-profesjonalne-techniki-adam-freeman,angupt.htm)
+  
+  
