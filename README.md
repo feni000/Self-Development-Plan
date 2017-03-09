@@ -27,6 +27,7 @@
     - REST API
     - WebServices 
     - Unit Tests (Test driven development)
+    - Design Patterns
 - Learning Plan
   - Theory from the books about every subject
   - Few simple excercises to get familiar with technology
@@ -40,4 +41,4 @@
   - [ASP.NET MVC 5. Zaawansowane programowanie - Adam Freeman](http://helion.pl/ksiazki/asp-net-mvc-5-zaawansowane-programowanie-adam-freeman,asp5zp.htm)
   - [AngularJS. Profesjonalne techniki](http://helion.pl/ksiazki/angularjs-profesjonalne-techniki-adam-freeman,angupt.htm)
   - [Czysty kod. Podręcznik dobrego programisty](http://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm)
-  
+  - [Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku](http://helion.pl/ksiazki/wzorce-projektowe-elementy-oprogramowania-obiektowego-wielokrotnego-uzytku-erich-gamma-richard-helm-ralph-johnson-john-m,wzoele.htm)
