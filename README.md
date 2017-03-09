@@ -26,6 +26,7 @@
     - Multithreading
     - Clean code principles
     - REST API
+    - WebServices 
 - [Learning Plan]
   - [Theory from the books about every subject]
   - [Few simple excercises to get familiar with technology]
