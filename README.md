@@ -28,6 +28,7 @@
     - WebServices 
     - Unit Tests (Test driven development)
     - Design Patterns
+    - System Version Control
 - Learning Plan
   - Theory from the books about every subject
   - Few simple excercises to get familiar with technology
